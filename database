@@ -7,3 +7,4 @@ CREATE TABLE students (
     roll INT UNIQUE NOT NULL,
     dept VARCHAR(50) NOT NULL
 );
+select*from students;
